@@ -1,8 +1,3 @@
-# ARCHIVED
-
-このrepositoryは cmdblog/cmdblog-backendに統合されました。
-
-
 # cmdblog-schema
 
 backend サーバーの提供するAPI用のJSON schema
