@@ -1,7 +1,7 @@
 openapi: 3.0.2
 info:
   title: ''
-  version: 'v0.0.1-pre-yuchiki-15'
+  version: 'v0.0.1-pre-yuchiki-16'
 paths:
   /users/:
     get:
