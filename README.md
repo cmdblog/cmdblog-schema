@@ -2,6 +2,14 @@
 
 backend サーバーの提供するAPI用のJSON schema
 
+# 確認
+
+とりあえずここを借りる。　https://petstore.swagger.io/
+
+そのうち自動生成してREADME.md に添付するようにする。
+
+
+
 # リリースサイクル
 
 ここを更新するたびに、release versionを切る。
